@@ -5,4 +5,9 @@ openpyxl
 Pillow
 XlsxWriter
 fpdf==1.7.2
-unicodedata2==15.1.0 
+#unicodedata2==15.1.0 
+joblib
+numpy
+scikit-learn
+
+
